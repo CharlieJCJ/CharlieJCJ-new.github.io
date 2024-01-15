@@ -26,6 +26,6 @@ A significant part of my educational journey has been my **love for [teaching](h
 
 Outside the sphere of academia, I have been involved in the fast-paced environment of SaaS startups. As a former founding software engineer for [Markit.AI](https://www.markit.ai), I had the privilege of working on image saliency detection for pre-launch analytics as part of the esteemed Skydeck Pad-13 Program.
 
-When I’m not steeped in academics or professional endeavors, I indulge in various activities. [Creating music](https://soundcloud.com/charlie-cheng-jie-ji), teaching, partaking in outdoor events, playing Texas Hold’em poker, and exploring diverse cuisines are some of my passions. I recently start to record my thoughts and experiences in my [blog](https://charliechengjieji.github.io/blog/).
+When I’m not steeped in academics or professional endeavors, I indulge in various activities. [Creating music](https://soundcloud.com/charlie-cheng-jie-ji), teaching, partaking in outdoor events, playing Texas Hold’em poker, and exploring diverse cuisines are some of my passions. I recently start to record my thoughts and experiences in my [blog](https://charliejcj.github.io/blog/).
 
 If you share any of these interests or if you’d like to chat about them, don’t hesitate to connect!

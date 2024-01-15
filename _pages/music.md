@@ -1,14 +1,16 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: music
+permalink: /music/
 description: 
+
 nav: true
-nav_order: 2
-display_categories: []
+nav_order: 3
+display_categories: [music]
 horizontal: false
 ---
-Hey there! Just a heads-up--this page, showcasing my research, work experience, and course projects, is still under construction. I'm working diligently to curate and present all the details in the best way possible. Please check back soon for the complete experience. Thanks for your patience and understanding! 🚧🔧📚
+Welcome to a collection that spans lofi, trap, EDM, and more. Starting in the 2021 lockdown, I was inspired by Internet Money livestreams and YouTube producers to teach myself music production. The result? A range of beats I truly enjoy creating. Below is a handpicked list of my original tracks. Dive in and enjoy the vibe. 🎧
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
@@ -22,14 +24,14 @@ Hey there! Just a heads-up--this page, showcasing my research, work experience, 
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include projects_horizontal.liquid %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% include projects.html %}
+      {% include projects.liquid %}
     {%- endfor %}
   </div>
   {%- endif -%}
@@ -48,14 +50,14 @@ Hey there! Just a heads-up--this page, showcasing my research, work experience, 
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include projects_horizontal.liquid %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% include projects.html %}
+      {% include projects.liquid %}
     {%- endfor %}
   </div>
   {%- endif -%}
