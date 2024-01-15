@@ -2,25 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.berkeley.edu/'>UC Berkeley</a>. CS & DS junior. ML Researcher. AGI Enthusiast. Music Producer. Hiker. Foodie.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: big_square_bear.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Berkeley, California</p>
+    charlieji@berkeley.edu
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, visitor! I’m Charlie. Thank you for taking a moment to visit my personal page.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am a **third year undergrad at UC Berkeley, majoring in [Computer Science](https://guide.berkeley.edu/undergraduate/degree-programs/computer-science/#abouttheprogramtext) and [Data Science](http://guide.berkeley.edu/undergraduate/degree-programs/data-science/#majorrequirementstext)**. You can find my coursework [here](https://charliejcj.github.io/coursework/). Born in San Jose but raised in the bustling metropolis of Shanghai, I spent a good part of my formative years amidst its vibrant energy. In my academic pursuits, I have developed a keen interest in generative modeling, AI safety, and curious about AGI problems, hoping to make more robust general autonomous systems with little human supervision. Currently, I'm a research intern at Tencent YouTu Lab, working on adversarial machine learning problems in computer vision, specifically in adversarial attacks in facial related applications. There're quite some topics that I'm currently following & exploring, here's a few: **LLM security, LLM + Education, AI + Music**. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+A significant part of my educational journey has been my **love for [teaching](https://charliejcj.github.io/teaching/) and pedagogical theories**. I am an avid proponent of the Concrete-Representational-Abstract, Socratic Teaching, and Multisensory Learning methodologies. 
+
+Outside the sphere of academia, I have been involved in the fast-paced environment of SaaS startups. As a former founding software engineer for [Markit.AI](https://www.markit.ai), I had the privilege of working on image saliency detection for pre-launch analytics as part of the esteemed Skydeck Pad-13 Program.
+
+When I’m not steeped in academics or professional endeavors, I indulge in various activities. [Creating music](https://soundcloud.com/charlie-cheng-jie-ji), teaching, partaking in outdoor events, playing Texas Hold’em poker, and exploring diverse cuisines are some of my passions. I recently start to record my thoughts and experiences in my [blog](https://charliechengjieji.github.io/blog/).
+
+If you share any of these interests or if you’d like to chat about them, don’t hesitate to connect!
