@@ -19,7 +19,7 @@ Some quotes that embodies my teaching philosophy:
   - **_Spring 2024: 12hr lead infra uGSI_ [[website](https://ds100.org/sp24/)]**
   - _Fall 2023: 8hr data scholars uGSI_ [[website](https://ds100.org/fa23/)]
   - _Spring 2023: Reader_ [[website](https://ds100.org/sp23/)]
-  - _Summer 2022: Reader_ [[website](https://ds100.org/su22/)]
+  - _Summer 2022: Reader_ [[website](https://ds100.org/su22/)] [[resources](https://charlieji.notion.site/Fa-2023-Data-100-Charlie-Ji-s-discussion-resource-0ff93f3142f24e9fa6931f74f80af5d4?pvs=4)]
 
 - LEGAL STUDIES 190 Natural Language Processing & Law\
   - _Summer 2022: DSUS Module Developer_ [[notebook](https://github.com/ds-modules/LEGAL-190-FA22)]
