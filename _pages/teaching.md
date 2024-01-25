@@ -9,14 +9,14 @@ nav_order: 5
 This page highlights the various teaching roles I've undertaken and showcases the materials I've crafted as a course developer. From classroom instruction to content creation, get a glimpse into my dedication to enhancing the learning experience.
 
 Some quotes that embodies my teaching philosophy:
-> The essence of teaching is to make learning contagious, to have one idea spark another. - Marva Collins
-
-> The art of teaching is the art of assisting discovery. - Mark Van Doren
+> *The essence of teaching is to make learning contagious, to have one idea spark another.* - Marva Collins
+> 
+> *The art of teaching is the art of assisting discovery.* - Mark Van Doren
 
 ## Undergraduate Courses
 
 - Data C100 Principles & Techniques of Data Science\
-  - **_Spring 2024: 12hr lead infra uGSI_ [[website](https://ds100.org/sp24/)]**
+  - **_Spring 2024: 12hr lead infra uGSI_ [[website](https://ds100.org/sp24/)] [[resources]](https://tinyurl.com/charlie-sp24)**
   - _Fall 2023: 8hr data scholars uGSI_ [[website](https://ds100.org/fa23/)] [[resources](https://charlieji.notion.site/Fa-2023-Data-100-Charlie-Ji-s-discussion-resource-0ff93f3142f24e9fa6931f74f80af5d4?pvs=4)]
   - _Spring 2023: Reader_ [[website](https://ds100.org/sp23/)]
   - _Summer 2022: Reader_ [[website](https://ds100.org/su22/)] 
